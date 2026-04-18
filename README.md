@@ -3,12 +3,12 @@
 This repository contains the **libmdbx** library used by ImtCore.
 
 
-MSVC VC17 libraries: 
+MSVC VC17 and macOS libraries:
 - (currently used) based on master branch's commit hash '3412f1b7bbfe9a80f9e3e8265df389b697d5c273' (28.02.2026).
 - based on stable branch's commit hash '0dc7dc8bb0c9111f62857f2668e9d1c512b669c1' (03.04.2026).
 - based on stable branch's unknown commit (some point at 2024).
 
-VC16, GCC and macOS:
+VC16, GCC (use corresponding header files in 'include' folder):
 - (currently used) based on stable branch's unknown commit (some point at 2024).
 
 **Note**:
